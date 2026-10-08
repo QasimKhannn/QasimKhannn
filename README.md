@@ -32,7 +32,7 @@ PostgreSQL · MongoDB · Pinecone · FAISS · ChromaDB
 
 ## Experience
 
-**Full Stack AI Engineer — Ajaya | AI Consultancy**
+**Full Stack AI Engineer — Ajaia | AI Consultancy**
 
 Building MCP servers, AI agents, tool-driven workflows,
 LLM applications, and client-facing AI products.
