@@ -64,6 +64,6 @@ server load by **30%**.
 
 ## Let's Connect
 
-🌐 [Portfolio](https://qasim-khan.vercel.app)  
+🌐 [Portfolio](https://www.qasimk.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/qasim-k/)  
 📧 iamqasimk@gmail.com
